@@ -1,0 +1,6 @@
+{
+  "name": "AI Project Idea Generator",
+  "description": "An interactive workstation that generates full-scale project blueprints, database schemas, step-by-step roadmaps, starter code, and provides a contextual AI project consultant using Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
